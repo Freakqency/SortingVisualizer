@@ -9,5 +9,5 @@ Available at - https://freakqency.github.io/SortingVisualizer/
 
 ## Todo
 * Implement Heap Sort
-* Counting Sort
+* Implement Counting Sort
 * Make UI Better
